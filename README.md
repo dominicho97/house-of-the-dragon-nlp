@@ -11,7 +11,7 @@ Character relationships visualization:
 ![hotd_relationships](https://user-images.githubusercontent.com/43000003/188431252-3062184f-2572-4792-85bc-99b1eb6550b3.PNG)
 
 Character communities visualization:
-![hotd_communities](https://user-images.githubusercontent.com/43000003/188431433-e9d1b195-11de-4562-8eb1-aef4688bdc3f.png)
+![hotd_communities](https://user-images.githubusercontent.com/43000003/188431796-ee39b1fd-eda7-4dee-9716-c59a8d5ccb8c.png)
 
 Most important character:
 ![hotd_centrality](https://user-images.githubusercontent.com/43000003/188431535-0b2916c8-eef5-4e35-b18d-b2c33db2f588.PNG)
