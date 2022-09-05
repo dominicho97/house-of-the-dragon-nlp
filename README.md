@@ -13,7 +13,7 @@ Character relationships visualization:
 Character communities visualization:
 ![hotd_communities](https://user-images.githubusercontent.com/43000003/188431796-ee39b1fd-eda7-4dee-9716-c59a8d5ccb8c.png)
 
-Most important character:
+Most important character:<br>
 ![hotd_centrality](https://user-images.githubusercontent.com/43000003/188431535-0b2916c8-eef5-4e35-b18d-b2c33db2f588.PNG)
 
 
