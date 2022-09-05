@@ -4,7 +4,7 @@ Relationships extraction and network analysis
 With Natural Language Processing(NLP) technique NER to extract the relationships
 of the characters from the book('Fire&Blood') / televisionseries 'House of the Dragon'
 
-Natural Entity Recognition (NER):
+Named Entity Recognition (NER):
 ![hotd_nlp](https://user-images.githubusercontent.com/43000003/188430850-d1a2bb50-d652-4282-9a4a-89ffa407ab15.PNG)
 
 Character relationships visualization:
